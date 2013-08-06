@@ -40,7 +40,7 @@
         <div class="content-wrapper">
             <div class="float-left">
                 <p class="site-title">
-                    <a runat="server" href="~/">your logo here</a>
+                    &nbsp;<asp:Image ID="Image1" runat="server" Height="212px" ImageAlign="Middle" ImageUrl="~/Images/banner.png" Width="798px" />
                 </p>
             </div>
             <div class="float-right">

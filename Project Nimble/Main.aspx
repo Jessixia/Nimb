@@ -10,9 +10,12 @@
             width: 798px;
             height: 212px;
         }
+        #Banner {
+            height: 288px;
+        }
     </style>
 </head>
-<body>
+<body style="height: 258px">
     <form id="form1" runat="server">
     <div id="Banner" align ="center">
     
